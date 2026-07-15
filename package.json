@@ -22,11 +22,11 @@
 		"oxfmt": "^0.26.0",
 		"semver": "^7.5.0",
 		"tshy": "^3.0.2",
-		"tsup": "^6.7.0",
+		"tsup": "^8.3.5",
 		"tsx": "^4.7.0",
 		"typescript": "^5.8.3",
 		"vite": "^5.0.2",
-		"vitest": "^0.34.6",
+		"vitest": "^3.2.6",
 		"webdriverio": "^8.6.7"
 	},
 	"packageManager": "pnpm@10.10.0"
